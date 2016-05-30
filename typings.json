@@ -1,0 +1,14 @@
+{
+  "name": "app",
+  "globalDependencies": {
+    "jquery": "github:DefinitelyTyped/DefinitelyTyped/jquery/jquery.d.ts#5e960679e6f9ae6ce905b1db0ad36fc189cd2eca",
+    "angular": "github:DefinitelyTyped/DefinitelyTyped/angularjs/angular.d.ts#5e960679e6f9ae6ce905b1db0ad36fc189cd2eca",
+    "angular-resource": "github:DefinitelyTyped/DefinitelyTyped/angularjs/angular-resource.d.ts#5e960679e6f9ae6ce905b1db0ad36fc189cd2eca",
+    "angular-route": "github:DefinitelyTyped/DefinitelyTyped/angularjs/angular-route.d.ts#5e960679e6f9ae6ce905b1db0ad36fc189cd2eca",
+    "angular-cookies": "github:DefinitelyTyped/DefinitelyTyped/angularjs/angular-cookies.d.ts#5e960679e6f9ae6ce905b1db0ad36fc189cd2eca",
+    "cryptojs": "github:DefinitelyTyped/DefinitelyTyped/cryptojs/cryptojs.d.ts#5e960679e6f9ae6ce905b1db0ad36fc189cd2eca",
+    "signalr": "github:DefinitelyTyped/DefinitelyTyped/signalr/signalr.d.ts#5e960679e6f9ae6ce905b1db0ad36fc189cd2eca",
+    "papaparse": "github:DefinitelyTyped/DefinitelyTyped/papaparse/papaparse.d.ts#5e960679e6f9ae6ce905b1db0ad36fc189cd2eca",
+    "mocha": "github:DefinitelyTyped/DefinitelyTyped/mocha/mocha.d.ts#5e960679e6f9ae6ce905b1db0ad36fc189cd2eca"
+  }
+}

@@ -1,0 +1,27 @@
+{
+	"version": "0.1.0",
+	"command": "gulp",
+	"isShellCommand": true,
+	"args": [
+	 //"--no-color"
+	],
+	"tasks": [
+		{
+			"taskName": "watch_Folders",
+			"args": ["default"],
+			"isBuildCommand": true,
+			"isWatching": true,
+			"problemMatcher": [
+				"$lessCompile",
+				"$tsc",
+				"$jshint",
+				"$tsc-watch",
+				"$gulp-tsc",
+				"$eslint-compact",
+				"$eslint-stylish",
+				"$msCompile"
+			],
+			"showOutput": "always"
+		}
+	]
+}
