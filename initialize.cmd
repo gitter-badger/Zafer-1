@@ -1,4 +1,4 @@
-@REM CALL npm install -g bower typings gulp
+@REM CALL npm install -g typings bower gulp
 CALL npm install
-CALL bower install
 CALL typings install
+CALL bower install
